@@ -9,6 +9,8 @@ In light of the global crisis like COVID-19, many people are afraid to leave the
 # Download the Collected Data
 https://www.kaggle.com/datasets/boulesnane/dzchatbot
 
+# Download the Complete Code
+The source code accessible under request from : https://aboulesnane.net/contact/
 
 # Screenshot of the proposed Chatbot
 ![DZchatbot](https://user-images.githubusercontent.com/53651195/196295646-1316e109-4057-4355-b84a-3c31fdf427e7.PNG)
